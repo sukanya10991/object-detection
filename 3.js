@@ -3,7 +3,7 @@ dstatus = "";
 objects = [];
 
 function preload() {
-    img = loadImage('img3.jpeg');
+    img = loadImage('img2.jpg');
 }
 
 function setup() {
